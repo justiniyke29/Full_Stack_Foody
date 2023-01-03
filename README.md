@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Vercel-430098?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
 </p>
 
-<h3 align="center"><a href="https://justinchickencity.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://full-stack-foody.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center">
   <br />&#10023;
